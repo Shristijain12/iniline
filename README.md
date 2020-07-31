@@ -1,0 +1,2 @@
+# iniline
+inline(CSS)
